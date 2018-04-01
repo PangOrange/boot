@@ -1,0 +1,14 @@
+server: 
+  port: 8080
+  servlet:
+    context-path: /orange
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dbOrange?useSSL=true
+    username: root
+    password: 295683
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
