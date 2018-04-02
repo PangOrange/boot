@@ -7,6 +7,9 @@ import javax.persistence.Id;
 @Entity
 public class Orange {
 
+	/**
+	 * 测试测试
+	 */
 	@Id
 	@GeneratedValue
 	private Integer id;
