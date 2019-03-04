@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Built-By: cz
-Build-Jdk: 9.0.4
 Implementation-Title: boot
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: FatOrange
 Implementation-Vendor-Id: com.orange
+Build-Jdk: 1.8.0_102
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/boot
 Created-By: Maven Integration for Eclipse
